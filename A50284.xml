@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The matter of fact a la mode de France, or, The case stated after the French manner, in relation to the alliance proposed by the two crowns of England and France, with the states of the United Netherlands with rational reflections thereon / in a letter from a burgher of Amsterdam, to his friend in the campagne, dated January 30, 1680 : Englished from the French copy.</title>
+            <author>Burgher of Amsterdam.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50284</idno>
+            <idno type="STC">Wing M1303</idno>
+            <idno type="STC">ESTC R13806</idno>
+            <idno type="EEBO-CITATION">13587373</idno>
+            <idno type="OCLC">ocm 13587373</idno>
+            <idno type="VID">100591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The matter of fact a la mode de France, or, The case stated after the French manner, in relation to the alliance proposed by the two crowns of England and France, with the states of the United Netherlands with rational reflections thereon / in a letter from a burgher of Amsterdam, to his friend in the campagne, dated January 30, 1680 : Englished from the French copy.</title>
+                  <author>Burgher of Amsterdam.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100591:1" rendition="simple:additions"/>
+            <p>THE Matter of FACT A la Mode de FRANCE: OR THE CASE STATED After the French Manner, In Relation to the Alliance propoſed by the Two Crowns OF England and France, With the STATES of the UNITED NETHERLANDS. WITH Rational Reflections thereon, IN A LETTER From a Burgher of <hi>Amſterdam,</hi> to his Friend in the <hi>Campagne,</hi> Dated <hi>January</hi> 30. 1680. Engliſhed from the French Copy.</p>
+            <p>Printed in the Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100591:2"/>
+            <pb n="1" facs="tcp:100591:2"/>
+            <head>A LETTER from a Burgher of <hi>Amſterdam,</hi> to his Friend in the <hi>Campagne. January 30. 1680.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough you reſide in the <hi>Compagne,</hi> and within a great re<g ref="char:EOLhyphen"/>tirement, yet 'tis impoſſible that the report of the affairs now tranſacted, and under debate in the Cities, ſhould not come to your ears. 'Tis moſt plain that this Republick of ours cannot have an affair of greater importance; but 'tis ſo differently diſcourſed of; and paſſion and particular intereſts make ſuch divi<g ref="char:EOLhyphen"/>ſion of the Wits, that 'tis almoſt impoſſible to know on which ſide the reaſon lies, unleſs a man firſt totally lay aſide all manner of prepoſſeſſion, and examine matters as becomes a good Repub<g ref="char:EOLhyphen"/>lican, who conſiders only the weal and advantage of his Coun<g ref="char:EOLhyphen"/>try. In the mean time we are very unhappy, that having with much toil freed our ſelves from a vexatious War, ſhould now again ſee our ſelves upon the very point of falling into our paſt Cala<g ref="char:EOLhyphen"/>mities, by a Conduct repugnant to what our true Intereſts require.</p>
+            <p>I intend not to cry about the Town the Memorials given to the States by the Embaſſador of <hi>France,</hi> and Envoy of <hi>England.</hi> The Conſiderations upon the Alliance of <hi>France;</hi> the Reflections on thoſe Conſiderations; the Treaties of <hi>England;</hi> and ſuch like things now in Print, which moſt have the curioſity to read, though few make a due reflection thereon; nevertheleſs I doubt not but our Magiſtrates are ſufficiently enlightned to judge as they ought of the great conſequence of an affair of this Nature.</p>
+            <p>But (Sir) be pleaſed to obſerve what is the matter. <hi>France</hi> de<g ref="char:EOLhyphen"/>mands the renovation of a former Alliance had with this State; the King of <hi>England</hi> oppoſeth it: the French King will have a de<g ref="char:EOLhyphen"/>finitive anſwer; the King of <hi>England</hi> pretends that this Alliance is againſt him, and offers many hundred millions, and the very blood of half his Subjects to aſſiſt this State, in caſe <hi>France</hi> ſhall diſturb it for refuſal of this Alliance at His Majeſty of <hi>Great Brittains</hi> re<g ref="char:EOLhyphen"/>queſt. Upon this the States excuſe themſelves to <hi>France,</hi> in reſpect of the Conjuncture of time, which will not permit them to enter into Engagements.</p>
+            <p>
+               <hi>Sir,</hi> You know I have no other intereſt in an affair of this na<g ref="char:EOLhyphen"/>ture than the deſire to ſee my own dear Country enjoy a repoſe ſo neceſſary for her after thoſe indetreatments and convulſions ſhe hath ſuffer'd. You will here ſee only ſimple reflections, on which
+<pb n="2" facs="tcp:100591:3"/> pray give me your ſentiments, to the end I may conforme mine thereunto. But that you may not ſpeak without a ground, and with<g ref="char:EOLhyphen"/>out knowledge of the cauſe, as not only ſome particular perſons do, but alſo ſome of thoſe whom to our ſorrow Heaven has made Judges in this cauſe. I intreat you, firſt to read the memorials which are extant on this ſubject, All the treaties which we have with Princes, and particularly the three laſt which we made with <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſince the laſt peace which hath reconcil'd us with that Crown, ſo that I may give you my opinion upon the ground of the de<g ref="char:EOLhyphen"/>mand which the <hi>French</hi> King hath made of renewing his Alliance, and upon the inſtance of <hi>England</hi> to refuſe it.</p>
+            <p>I find moreover that <hi>France</hi> had pleaſed us if it had not made this demand at preſent, and it might have ſo come to paſs that if his moſt Chriſtian Majeſty had foreſeen the confuſions or incon<g ref="char:EOLhyphen"/>veniency, it expoſeth us to at this day, he would have left us to have ſome over to him with the time, and it may be alſo that we ſhould ſoon have deemed it our intereſt to requeſt his Alliance with the ſame inſtances, and importunity which we at other times have done. But on the other hand, can you diſlike that the French King perceiving our delay to anſwer what we promiſed readily to comply with, ſhould at length know what he is to truſt to: I cannot blame him if he requite the ſimple excuſes which the States make to him ſince they alledge no reaſon which may ſa<g ref="char:EOLhyphen"/>tisfie him.</p>
+            <p>'Tis true, the States are free, and not obliged to render the rea<g ref="char:EOLhyphen"/>ſon of their Conduct, yet the principal reaſons whereof they ſerve themſelves of a foundation for the Excuſes which they make to enter at preſent into an Alliance with <hi>France,</hi> may be particularly reduced to two.</p>
+            <p>The firſt is, that if the States make an Alliance with <hi>France,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>France</hi> demands it, they loſe their Liberty and Freedom; for every time the moſt Chriſtian King ſhall pleaſe to demand any thing, the States muſt obey as Slaves. Sir, I know not what you will think of this conſequence; as for me who have looked into the Extenſion that Mr. <hi>Counſeller Pentionary</hi> hath made to the States of <hi>Holland</hi> of the Propoſition of the French Alliance, <hi>viz. That His moſt Chriſtian Majeſty well knows that the States are free, and at liberty to make, or not to make Alliances.</hi> I find this conſequence not to be juſt, as ſeeming only to enquire whether the King of <hi>France</hi> hath ſub<g ref="char:EOLhyphen"/>ject matter to purſue this demand, and whether we may fairly re<g ref="char:EOLhyphen"/>fuſe it, and not whether we do not give him juſt cauſe to com<g ref="char:EOLhyphen"/>plain
+<pb n="3" facs="tcp:100591:3"/> of us in not anſwering as we ought, the ſincere Aſſurances he hath given us of his Affection, which he even yet continues to do by the Letter which he wrote to the States General on the ſubject of the Dolphins Mar<g ref="char:EOLhyphen"/>riage.</p>
+            <p>The ſecond Reaſon the States bring to continue their Excuſe of the French Al iance, is founded upon the repeated Inſtances of the moſt Chri<g ref="char:EOLhyphen"/>ſtian King, concluding thereby, that there muſt lye hid in that demand, ſome ſuſpicious motive which ought to impede and withhold their conſent thereunto.</p>
+            <p>But Sir, upon conſidering the matter without paſſion, you will find that 'tis (in this, as in our private and particular affairs natural for us to deſire a yea, or a nay, a grant, or denial, when thoſe perſons from whom we may juſtly expect that which we requeſt, turn their backs upon us. I do not believe that upon a conſequence of ſo weak a foundation, they ought to eſtabliſh a refuſal, which may have effects ſo dangerous to the State.</p>
+            <p>But the Beſt of all the Reaſons is that which they alledge in publick, <hi>viz.</hi> That 'tis the true intereſt of the States to continue Neuters in the preſent conjuncture: If His moſt Chriſtian Majeſty would reſt content therewith, our State would be too happy. And I verily believe the King of <hi>France</hi> would have been content therewith, and that the States would have inſiſt<g ref="char:EOLhyphen"/>ed upon it as their beſt Excuſe, were there ſo good a ground for it as it ought to have to make us determine a Neutrality as things now ſtand.</p>
+            <p>
+               <hi>Sir,</hi> I believe you are of their opinion, who ſay, that to pretend an exact Neutrality, the States ought either not to be allyed with any Prince, or to be equally allyed with all: And that it is to no purpoſe for us to ſay, that our Alliances were made during the War with <hi>France,</hi> ſince being ſtipulated, to continue after the Peace, they are to be looked on now as made after the Peace. Judge you then if <hi>France</hi> hath not reaſon to ſay, that we are not only allyed with the Emperour, with <hi>Spain,</hi> and many other Princes, but with <hi>England</hi> alſo to perpetuity, without any deſire at all to be allyed with it. Our Neutrality at this rate can be nothing elſe than a Neutrality in <hi>Idaea,</hi> conceived by the natural deſire we have of the advantage we may draw thence, in caſe we could really attain to be Neuters at this preſent Conjuncture. They ground the pretence of this Neutrality on this, that having refuſed a Treaty of Guarranty, reciprocal with <hi>England,</hi> to which they ſay we are obliged by two Treaties, we now remain in an exact Neu<g ref="char:EOLhyphen"/>trality, if we refuſe the Alliance with <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> Pray obſerve, that there are two things conſiderable on this ſcore: Firſt, Whether the two Treaties before alledged have been by conſequence truly obligatory. Secondly, If they have ſo been (as <hi>England</hi> pretends) whether for that reaſon we ought to determine a refuſal of the Alliance with <hi>France,</hi> as we have declined the League of Guarranty, to the end we may be able to ſtile our ſelves Neuters.</p>
+            <p>You ſee what Judgment you ought to give upon this matter, ſince (in truth) you will clearly obſerve that theſe two Treaties on which <hi>England</hi> ſo much builds, have remained without effect, and without obligation. And that a third Treaty of perpetual Alliance with that Crown, continuing in force, altogether obſtructs our remaining Neuters.</p>
+            <p>The firſt of theſe Treaties is that of the month of <hi>January,</hi> 1678. by which <hi>England</hi> and the States agreed upon certain Articles or Conditions of Peace, to which they pretended to make <hi>France</hi> and <hi>Spain</hi> to conſent,
+<pb n="4" facs="tcp:100591:4"/> and obliged themſelves to contribute all their power thereunto, and to warrant that Peace. But the Peace not being concluded upon the Con<g ref="char:EOLhyphen"/>ditions intended by that Treaty, 'tis plain, that that Treaty is no fur<g ref="char:EOLhyphen"/>ther obligatory.</p>
+            <p>The ſecond Treaty is that of the month of <hi>July,</hi> in the ſame year. The difficulty <hi>France</hi> made to reſtore places, after the ratification of the Peace, gave occaſion for this Treaty, by which <hi>England</hi> and <hi>France</hi> a<g ref="char:EOLhyphen"/>greed, that if the Peace between <hi>France</hi> and the <hi>States</hi> were not ſigned before the eleventh of that month, they would unite all their forces to oblige <hi>France</hi> to a Peace, and afterwards would agree upon the forces they were to contribute to warrant it. But the Peace was ſigned the tenth, and ſo by conſequence that Treaty is fallen to the ground, and continues without obligation as the former, it being impoſſible (the foundation of the Treaty failing) that any one thing dependant thereon, ſhould ſubſiſt alone.</p>
+            <p>
+               <hi>Sir,</hi> You will perhaps ſay that I here plead the cauſe of <hi>France,</hi> but I aſſure you truth is more prevalent with me than any particular intereſt. And we our ſelves have acknowledged that theſe Treaties do not bind us when we declined to make the Treaty of Guarranty reciprocal with <hi>England,</hi> which hath given occaſion for the general opinion, moſt men not well informed are of, That all Treaties made by us during the War, do not continue ſince the Peace: And that in refuſing to enter into any Engage<g ref="char:EOLhyphen"/>ment with <hi>France,</hi> we do but only maintain a Neutrality.</p>
+            <p>
+               <hi>Sir,</hi> I know 'tis either ignorance, or the ill deſigns of ſome particular perſons that hath begot this obſtacle in the Spirit of the publick. For 'tis well known, we have a third Treaty of Alliance with <hi>England,</hi> ſtill in force, which is that of the third of <hi>March,</hi> 1674. the ſtreets ring of it, and you cannot be a ſtranger to it; only obſerve that this Treaty was not made on the Subject of the War, but to engage us in a perpetual Al<g ref="char:EOLhyphen"/>liance with <hi>England.</hi> And upon the obligations of this Treaty it is that <hi>England</hi> takes the ground of its ſolliciting this State not to ally it ſelf with <hi>France,</hi> and not to do a thing which it judgeth contrary to the good Union and Amity we have promiſed.</p>
+            <p>By this you will judge if for not having made the Treaty of Guarranty with <hi>England,</hi> we may fairly refuſe the Alliance of <hi>France.</hi> And whe<g ref="char:EOLhyphen"/>ther for this we are leſs allied with <hi>England,</hi> and almoſt all the Princes of Europe. And whether as things now ſtand we can ſo much as pretend to remain in a true Neutrality.</p>
+            <p>It may be you know the Diſcourſe is, that <hi>France</hi> will make War with <hi>England,</hi> as 'tis ſaid it will with <hi>Spain,</hi> in attacquing <hi>Italy,</hi> and in <hi>Ger<g ref="char:EOLhyphen"/>many:</hi> That the King's deſign is upon the whole to engage us in a War with <hi>England;</hi> and that although the Alliance which the King of <hi>France</hi> demands be only defenſive, yet he will find a way to oblige us to aſſiſt him in this War, in cauſing himſelf to be attacqued by <hi>England,</hi> which he may eaſily prove by ſending ſome of his Ships to affront the <hi>Engliſh,</hi> upon the account of the Flag. And that <hi>England</hi> finding it ſelf obliged to declare War with <hi>France,</hi> to revenge that affront, the States by this means will be drawn headlong into that Calamity which they ſo much dread.</p>
+            <p>Be pleaſed but to reflect upon all theſe conſequences, and upon the ſo<g ref="char:EOLhyphen"/>lidity of the foundations on which they are built. You know better
+<pb n="5" facs="tcp:100591:4"/> than I how much it is our intereſt to be united with <hi>England,</hi> but I can not ſee how you can find ſolidity enough in the principles they lay down, or in the pretence of <hi>England</hi> ſince it would needs have it that we fail of our duty if we renew our Alliance with <hi>France,</hi> that Alliance was never againſt <hi>England,</hi> why ſhould it be ſo now? All the Princes with whom the States are allyed may ſay as much thereof.</p>
+            <p>But Sir, let us leave there all foreign conſiderations, and inquire into our own intereſt preferrable to every thing elſe. Do you not find as well I, that 'tis eſſential to our liberty to be no leſs engaged to one King than to another. Has not a miſchievous experience more than once taught us what relyance we may have upon the one rather than the other? And our independance is never better eſtabliſhed than to carry our ſelves equally on both ſides; and by this means we have an aſſurance to have one for us againſt the other.</p>
+            <p>
+               <hi>Sir,</hi> I leave you to make all theſe reflections, and return to the ſtate of a Neutrality ſo convenient, and ſo much coveted by our republick. But can that be obtained no other way ſave by renouncing all the Alliances which we have with ſo many Princes, or in renewing that which hereto<g ref="char:EOLhyphen"/>fore we have had with <hi>France,</hi> and from which we have no ſlender reaſon to excuſe our ſelves?</p>
+            <p>'Tis certain the firſt of theſe alterations ſuits not with the intereſt of this Republick, on the other hand how reaſonable ſoever the ſecond ap<g ref="char:EOLhyphen"/>peares to me, yet it is not ſufficient to ſecure us againſt the danger which we fear, which is, leſt the Alliance with <hi>France</hi> ſhould oblige us to enter in<g ref="char:EOLhyphen"/>to a war againſt <hi>Engl.</hi> what expedient then ſhall we make uſe of in this perplexity? As for me, if I may ſpeak the truth without partiality, I am apt to believe that a King, who hath ſtrongly teſtified that he will concern himſelf no leſs to contribute to our repoſe, than to ſecure our Liberty; and who is not in a Condition to need our aid, will againſt our inclinations ingage us in a war. I much rather believe he will in this Conjuncture baniſh our pannique fears, and heal our apprehenſions in conſenting which we renew with him ſhall not engage us to enter into a war with <hi>England</hi> for any Subject matter that can produce, we promiſing the ſame reci<g ref="char:EOLhyphen"/>procally to him. 'Tis in this manner that we may truly ſtand Neuter in a Conjuncture wherein it ſo much imports as to continue ſo.</p>
+            <p>
+               <hi>Sir,</hi> I am confident an expedient of this kind will meet with your ap<g ref="char:EOLhyphen"/>probation, and if you and I have any hand in the matter, there's no parti<g ref="char:EOLhyphen"/>cular conſideration will be able to make us depart from this Sentiment, whatever happens. I am perſwaded that the King of <hi>France</hi> knows ſo well the ground and bottom of our inclinations, that if the States make any ſteps in this affair which are not conformable to them, he will not look upon it to be the act of the generality. But ſince publick reſoluti<g ref="char:EOLhyphen"/>ons do explicate the general ſentiments, I cannot ſee what we have to ſay in caſe he do ſo. And that it is not for him to make the diſtinction, if ſome particular perſons intereſts do hinder us from correſponding as we would with the marks of his amity. I would hope for ſo much, that he will make ſome allowance, and have ſome regard to the ſlow humour of this people, who recoil rather than advance, when they are preſſed, and give them time to lay aſide and return from thoſe prepoſſeſſions in which they now are; and that they may have worn out theſe ſiniſter impreſſions which ſome have made on them againſt their true intereſts.</p>
+            <pb n="6" facs="tcp:100591:5"/>
+            <p>
+               <hi>Sir,</hi> You will eminently oblige me to ſend me word whether you are of my opinion, and whether you find me partial in any thing but what reſpects your ſelf. I expect a word in anſwer, and am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Servant, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce I wrote my Letter, I hear that the conduct of the States of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> touching the deliberation there taken the <hi>23d.</hi> past, gave the King of <hi>France</hi> juſt cauſe to complain of their excuſes of entring into his Alliance at preſent.</p>
+            <p>The Embaſſador complained that he having been promiſed, that all things ſhould ſtay till he knew the ultimate reſult &amp; pleaſure of the King his Ma<g ref="char:EOLhyphen"/>ſter, touching the firſt offer which the States made. And that having more<g ref="char:EOLhyphen"/>over received His Majesties Orders by a Courrier expreſs, and therewith acquainted the States by a memorial of the <hi>22th.</hi> Nevertheleſs the De<g ref="char:EOLhyphen"/>puties notwithstanding this took their reſolution the next day the <hi>23d.</hi> without ever communicating this memorial to the Cities, and without having had any deliberation themſelves on a matter of that importance, except upon that of the <hi>12th.</hi> And as though there had been no other me<g ref="char:EOLhyphen"/>morial ſince the laſt aſſembly. The Deputies have given their conſent in conformity to the former deliberations made upon the ſingle oppoſition made to the aſſembly the month precedent, upon the demand which <hi>France</hi> made of renewing of the Alliance.</p>
+            <p>Some particular perſons talk here very high, that in another conjuncture, and for affairs of leſs moment, the Deputies were made to be reſponſable. And at the ſame time diſavow their having made any ſuch tranſaction, or advance in this affaire. That ſome of the Towns ſay they have been de<g ref="char:EOLhyphen"/>ceived in being made to believe that the King of <hi>France</hi> was ſatisfied with this reſolution. There are others who diſown the Conduct of their Deputies: And infine, that the Councels of the Towns will examin more ma<g ref="char:EOLhyphen"/>turely an affair of the higheſt conſequence. And as to the Provinces, except thoſe of <hi>Prize</hi> and <hi>Groningen,</hi> they ought not much to doubt of the other, for that thoſe of <hi>Guelder, Overiſſell</hi> and <hi>Utrecht,</hi> being the moſt expoſed, and ſeeing yet at <hi>Weſel,</hi> within their Neighbourhood, an Army of <hi>France,</hi> they may be brought to take reſolution more vigourous, and more conform<g ref="char:EOLhyphen"/>able to their intereſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
